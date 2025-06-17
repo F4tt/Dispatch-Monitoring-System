@@ -1,11 +1,11 @@
 # Dispatch-Monitoring-System
 How to use:
 - Linux:
-  + git clone https://github.com/ten_user/EATLAB.git
+  + git clone https://github.com/F4tt/Dispatch-Monitoring-System.git
   + cd EATLAB
   + docker-compose up
 - Windows:
-  + git clone https://github.com/ten_user/EATLAB.git
+  + git clone https://github.com/F4tt/Dispatch-Monitoring-System.git
   + cd EATLAB
   + python main.py
 
