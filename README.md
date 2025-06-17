@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/271adf65-c5cd-4197-b6ad-6d22a2f40a0e)![image](https://github.com/user-attachments/assets/271adf65-c5cd-4197-b6ad-6d22a2f40a0e)# Dispatch-Monitoring-System
 How to use:
 - Linux:
   + git clone https://github.com/F4tt/Dispatch-Monitoring-System.git
