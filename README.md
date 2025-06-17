@@ -4,8 +4,7 @@ How to use:
   + git clone https://github.com/F4tt/Dispatch-Monitoring-System.git
   + cd EATLAB
   + add video to folder, change video path if using another video.
-  ![Ảnh chụp màn hình 2025-06-17 161452](https://github.com/user-attachments/assets/e91f0094-04c0-4442-98b5-8262d7cc1911)
-  ![Ảnh chụp màn hình 2025-06-17 161452](https://github.com/user-attachments/assets/e91f0094-04c0-4442-98b5-8262d7cc1911)
+  ![Ảnh chụp màn hình 2025-06-17 161452](https://github.com/user-attachments/assets/ae8596a8-7651-4bee-8589-88156614c3a3)
   + docker-compose up
 - Windows:
   + git clone https://github.com/F4tt/Dispatch-Monitoring-System.git
