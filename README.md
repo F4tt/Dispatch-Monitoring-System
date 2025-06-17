@@ -1,12 +1,16 @@
-# Dispatch-Monitoring-System
+![image](https://github.com/user-attachments/assets/271adf65-c5cd-4197-b6ad-6d22a2f40a0e)![image](https://github.com/user-attachments/assets/271adf65-c5cd-4197-b6ad-6d22a2f40a0e)# Dispatch-Monitoring-System
 How to use:
 - Linux:
   + git clone https://github.com/F4tt/Dispatch-Monitoring-System.git
   + cd EATLAB
+  + add video to folder, change video path if using another video.
+  ![Ảnh chụp màn hình 2025-06-17 161452](https://github.com/user-attachments/assets/e91f0094-04c0-4442-98b5-8262d7cc1911)
+  ![Ảnh chụp màn hình 2025-06-17 161452](https://github.com/user-attachments/assets/e91f0094-04c0-4442-98b5-8262d7cc1911)
   + docker-compose up
 - Windows:
   + git clone https://github.com/F4tt/Dispatch-Monitoring-System.git
   + cd EATLAB
+  + add video to folder, change video path if using another video.
   + python main.py
 
 Features:
